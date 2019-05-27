@@ -1,0 +1,46 @@
+////////////////////////////////////////////////////////////////////////////////
+//                   ArcSoft FaceEngine SDK 		                      //        
+////////////////////////////////////////// /////////////////////////////////////
+
+Introduction:
+ArcSoft FaceEngine SDK provides the universal interfaces to detect the face information of face, like face detection, age estimation, gender estimation,face angle detection,face liveness detection,face recognition.
+
+Publish date:
+03/27/2019
+
+Expire date：（only valid on liveness detection）
+05/22/2020
+
+Version:
+2.1.12021020101.4
+
+Supported platform:
+Android armeabi_v7a
+
+Compile Options:
+default
+
+Dependency:
+None
+
+Known issues:
+None.
+
+File List:
+|---doc
+|   |---ARCSOFT_ARC_FACE_DEVELOPER'S_GUIDE.pdf  Developer's guide
+|   |---ArcFaceAPI-Android.zip
+|---libs
+|   |---armeabi-v7a
+|   |   |---libarcsoft_face.so                Library
+|   |   |---libarcsoft_face_engine.so           Library
+|   |--arcsoft_face.jar
+|---samplecode
+|   |---ArcfaceDemo
+|---releasenotes.txt
+
+
+Change Logs:
+2018.10.15 merge several sdks into one 
+2018.12.21 change activate way
+2019.02.26 update model of face detect and face liveness detection. support Android 4.4
