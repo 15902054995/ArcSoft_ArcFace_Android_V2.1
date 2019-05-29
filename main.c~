@@ -1,0 +1,8 @@
+//#include <stdio.h>
+#include  "hellotest.h"
+int main()
+{
+printf("hello world main.c\n");
+fun();
+return 0;
+}
